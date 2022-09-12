@@ -9,9 +9,9 @@
 :root {
   --showRtcConnectionStatusIcon: block;
   /* Show: block | Hide: none | show the vc ping/status icon */
-  --jumboEmojiSize: 2rem;
+  --jumboEmojiSize: 3rem;
   /* Old: 2rem | New: 3rem | size of jumbo emojis */
-  --channelBarWidth: 2px;
+  --channelBarWidth: 0px;
   /* 2015: 4px | 2016: 2px | changes width of the blurple bar to the left of selected channels */
 }
 
